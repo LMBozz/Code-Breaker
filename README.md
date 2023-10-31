@@ -1,2 +1,20 @@
-# Code-Breaker
-Try and solve the various puzzles and piece together the final password!
+# Code-Breaker Challenge
+
+In this challenge you will be provided with a number of strings.
+Each of these strings have undergone some form of encryption,
+your job is to decode them and piece together the final password!
+The first person / team to complete the challenge will get
+a special role in the Discord & bragging rights!
+
+Good luck!
+
+The final password will be a combination of each of these strings
+placed together in sequence. It might be a word... It might not!
+
+Example:
+Puzzle 1: hello
+Puzzle 2: world
+
+Final code = helloworld
+
+You can find the puzzles in the PUZZLE directory!
