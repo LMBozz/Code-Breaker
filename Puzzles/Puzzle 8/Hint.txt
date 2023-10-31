@@ -1,0 +1,2 @@
+Hint: This encoding method represents letters using combinations
+of long and short sound signals.

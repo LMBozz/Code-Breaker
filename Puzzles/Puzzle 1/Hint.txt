@@ -1,0 +1,4 @@
+This puzzle uses one of the most simple and widely known encryption
+techniques, and is extremely easy to crack!
+
+Hint: It wasn't built in a day.

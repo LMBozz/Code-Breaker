@@ -1,0 +1,8 @@
+The encoding method used in this puzzle is Base64. However,
+the string itself has been tampered with; identify what has
+been removed from the string and append it to the end of
+the password!
+
+Hint: Whilst the tampered version of the string will
+be valid in most decoders, something HAS been removed
+from the original encryption.

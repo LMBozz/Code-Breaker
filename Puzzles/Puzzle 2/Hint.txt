@@ -1,0 +1,3 @@
+This puzzle uses another simple cipher to encrypt the message.
+
+Hint: There are 26 _______ in the ________ .

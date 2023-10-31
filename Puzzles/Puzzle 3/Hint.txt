@@ -1,0 +1,5 @@
+This puzzle is very 'black and white'. It uses a simplistic form of visual
+encoding!
+
+Hint: How many tiles are there per row? A value that has two possible values
+is said to be... what?

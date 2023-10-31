@@ -1,0 +1,3 @@
+This is a common steganography technique.
+
+Hint: It's in the hex.
