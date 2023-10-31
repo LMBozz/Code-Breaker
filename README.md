@@ -18,3 +18,8 @@ Puzzle 2: world
 Final code = helloworld
 
 You can find the puzzles in the PUZZLE directory!
+
+When you think you have the final answer, fill out the following form!
+https://forms.gle/jCryhpc8W53EXUrp8
+
+Please only submit 1 answer! You may work in teams or individually.
